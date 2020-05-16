@@ -1,6 +1,6 @@
-import companyName.core.Interval;
-import companyName.core.Schedule;
-import companyName.core.ScheduleProcessor;
+import companyname.core.Interval;
+import companyname.core.Schedule;
+import companyname.core.ScheduleProcessor;
 
 import java.util.List;
 

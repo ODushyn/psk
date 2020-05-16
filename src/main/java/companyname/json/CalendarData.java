@@ -1,4 +1,4 @@
-package companyName.json;
+package companyname.json;
 
 import lombok.Getter;
 import lombok.Setter;

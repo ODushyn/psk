@@ -1,10 +1,10 @@
-package companyName.core;
+package companyname.core;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import com.google.gson.JsonDeserializer;
-import companyName.json.Appointment;
-import companyName.json.CalendarData;
+import companyname.json.Appointment;
+import companyname.json.CalendarData;
 
 import java.io.File;
 import java.io.FileNotFoundException;

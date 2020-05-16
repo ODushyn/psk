@@ -1,4 +1,4 @@
-package companyName.core;
+package companyname.core;
 
 import java.util.Comparator;
 

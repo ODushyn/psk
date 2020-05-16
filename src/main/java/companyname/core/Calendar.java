@@ -1,4 +1,4 @@
-package companyName.core;
+package companyname.core;
 
 import java.time.LocalDate;
 import java.time.LocalTime;
